@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <strong className="purple">Neelesh S</strong>
+          <strong className="purple">Mahek S</strong>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -91,7 +91,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="http://neeleshwrites.wordpress.com"
+                href="http://mahiwrites3.wordpress.com"
                 target="_blank"
                 rel="noreferrer"
               >

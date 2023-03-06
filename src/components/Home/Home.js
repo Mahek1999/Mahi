@@ -23,15 +23,14 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Neelesh Shekhar</strong>
+                <strong className="main-name"> Mahek Saraogi</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>
               <div style={{ paddingLeft: 50, textAlign: "left" }}>
-              An Individual with a Computer Science background with an excellent analytical perspective towards solving problems. I have experience in the Digital transformation of organizations by analyzing real data sets.
-           
+              Consultant with a Computer Science background having experience in Designing and implementing Order to CashSolutionsfor US and Canada Based Clients. Adept at Client Communication via call and emails. Solution Oriented Problem solver withaGoal Oriented Mindset
               </div>
                </Col>
 

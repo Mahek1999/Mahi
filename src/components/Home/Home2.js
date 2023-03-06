@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
+import mahek from "../../Assets/mahek.png"
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -20,8 +21,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             
-               Built www.skilwil.com, an immersive ed-art-tech platform to engage students to brudge the gap between creativity and education
-               <br/><br/>Currently building www.thefusionmonkey.com, an online entertainement cum fashion brand that connects to the ambitious youth.
+              Currently building www.thefusionmonkey.com, an online entertainement cum fashion brand that connects to the ambitious youth.
                <br/><br/> Currently Building Bahurangi, an platform for the Tercotta artisions to gain digital exposure.
            
             
@@ -29,7 +29,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={mahek} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>

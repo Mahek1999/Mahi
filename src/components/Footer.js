@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Neelesh</h3>
+          <h3>Designed and Developed by Mahek</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} NS</h3>
+          <h3>Copyright © {year} MS</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/neeleshshekhar"
+                href="https://github.com/mahi"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/neelesh"
+                href="https://twitter.com/mahi"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/neelesh-shekhar-59a038143"
+                href="https://www.linkedin.com/in/mahek-saraogi-0b4a50181/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/neeleshshekhar_/"
+                href="https://www.instagram.com/_mahi.99//"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

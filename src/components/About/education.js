@@ -37,7 +37,7 @@ function Education() {
       </p></Col>
       
     </Row><br/>
-    <Row className="ed-card">
+    {/* <Row className="ed-card">
     <Col md={2} className="ed-card">
         <Tilt>
           <img src={prayag} style={{padding:"10%"}} className="img-fluid" alt="avatar" />
@@ -49,7 +49,7 @@ function Education() {
         <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px",color:"black" }}>While undergoing this degree I gained a broad perspective in both software and hardware topics pertinent to computing systems. I minored in Fintech, with my final year project in blockchain and its impact on the Supply chain cycle for Vaccines.
       </p></Col>
       
-    </Row><br/>
+    </Row><br/> */}
     
     
   </Container>

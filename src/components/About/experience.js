@@ -12,7 +12,7 @@ import Tilt from "react-parallax-tilt";
 function Experience() {
   return (
     <Container>
-    <Row className="ed-card">
+    {/* <Row className="ed-card">
     <Col md={2} >
         <Tilt>
           <img src={ey} className="img-fluid" style={{padding:"10%"}} alt="avatar" />
@@ -24,7 +24,7 @@ function Experience() {
         <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>A Cloud Engineer with DotNet and GCP Experience.
       </p></Col>
       
-    </Row>
+    </Row> */}
     <br/>
     <Row className="ed-card">
     <Col md={2} >
@@ -35,7 +35,7 @@ function Experience() {
       <Col md={8} >
         <h3 style={{ textAlign: "left"}}>Digital Transformation Consultant</h3>
         <h5 className="purple" style={{ textAlign: "left"}}>Highradius</h5>
-        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Carried out exploratory data analysis on the data for several clients to solve business problems like Daily Sales Outstanding using multiple data analysis tools like SQL, Advanced Excel, and Tableau.
+        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Analyzing Client’s live data using Analytical andVisualization tools to improve the Client’s ARProcess.Created Design, Fit-Gap documents to identifythePureBusiness requirement vs the available Product ScopeforFortune 500 Clients. Gathered the Pure Business RequirementsfromCustomer Stated Requirements.
       </p></Col>
       
     </Row>
@@ -47,9 +47,9 @@ function Experience() {
         </Tilt>
       </Col>
       <Col md={8} >
-        <h3 style={{ textAlign: "left"}}>SDE, Intern</h3>
-        <h5 className="purple" style={{ textAlign: "left"}}>Jharkhand Government</h5>
-        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Created a DotNet Web App to cater to the Village Level Entreprenuers.
+        <h3 style={{ textAlign: "left"}}>Community Leader</h3>
+        <h5 className="purple" style={{ textAlign: "left"}}>UnSchool</h5>
+        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Supervised and trained a group of 10+CommunityInfluencers. ⮚ Responsible for cond
       </p></Col>
       
     </Row>

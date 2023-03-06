@@ -9,6 +9,8 @@ import chatify from "../../Assets/Projects/chatify.png";
 import coursera from "../../Assets/coursera.png";
 import kiit from "../../Assets/kiit.png";
 import udemy from "../../Assets/udemy.png";
+import niit from "../../Assets/niit.png";
+import Java from "../../Assets/java.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -36,9 +38,9 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={coursera}
+              imgPath={Java}
               isBlog={false}
-              title="Ask Questions to Make Data-Driven Decisions"
+              title="Advanced Java - RCPL"
               ghLink="https://www.coursera.org/account/accomplishments/certificate/WFGJZYSZEK4B"
               
             />
@@ -76,9 +78,9 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={kiit}
+              imgPath={niit}
               isBlog={false}
-              title="Sales and management "
+              title="Web Development - NIIT "
               ghLink="https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
