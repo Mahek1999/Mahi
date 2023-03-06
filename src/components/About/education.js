@@ -32,7 +32,7 @@ function Education() {
       </Col>
       <Col md={8} >
         <h3 style={{ textAlign: "left"}}>Class 12th </h3>
-        <h5 className="purple" style={{ textAlign: "left"}}>Delhi Public School Ranchi</h5>
+        <h5 className="purple" style={{ textAlign: "left"}}>Delhi Public School Ruby Park</h5>
         <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px",color:"black" }}>With my Major In science, I chose my fifth Subject Computer Science. I was awarded as the academic achiever by the Chief Secretary of Jharkhand for exemplary performance.
       </p></Col>
       
