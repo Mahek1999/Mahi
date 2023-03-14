@@ -22,7 +22,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                I'M
+                I'm
                 <strong className="main-name"> Mahek Saraogi</strong>
               </h1>
 
@@ -45,7 +45,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <Home2 />
+      {/* <Home2 /> */}
       <Home3 />
     </section>
   );

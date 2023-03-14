@@ -20,7 +20,9 @@ function Education() {
       <Col md={8} >
         <h3 style={{ textAlign: "left"}}>Bachelors in Computer Science and Engineering </h3>
         <h5 className="purple" style={{ textAlign: "left"}}>Kalinga Institute of Industrial Technology</h5>
-        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px",color:"black" }}>While undergoing this degree I gained a broad perspective in both software and hardware topics pertinent to computing systems. I minored in Fintech, with my final year project in blockchain and its impact on the Supply chain cycle for Vaccines.
+        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px",color:"black" }}>Bachelor of Technology, Computer Science and Engineering <br/>
+        Grade : 
+        <strong> 9.50</strong>
       </p></Col>
       
     </Row><br/>
@@ -33,7 +35,10 @@ function Education() {
       <Col md={8} >
         <h3 style={{ textAlign: "left"}}>Class 12th </h3>
         <h5 className="purple" style={{ textAlign: "left"}}>Delhi Public School Ruby Park</h5>
-        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px",color:"black" }}>With my Major In science, I chose my fifth Subject Computer Science. I was awarded as the academic achiever by the Chief Secretary of Jharkhand for exemplary performance.
+        <h6 style={{ textAlign: "left",color:"black"}}>Class 12</h6>
+        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px",color:"black" }}>Majors in Science
+        <br/>Grade : 
+        <strong> 89.8</strong>
       </p></Col>
       
     </Row><br/>

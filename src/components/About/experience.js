@@ -29,18 +29,31 @@ function Experience() {
     <Row className="ed-card">
     <Col md={2} >
         <Tilt>
-          <img src={hrc} className="img-fluid" style={{padding:"10%"}} alt="avatar" />
+          <img src={hrc} className="img-fluid" style={{padding:"10%",paddingTop:"60px"}} alt="avatar" />
         </Tilt>
       </Col>
       <Col md={8} >
         <h3 style={{ textAlign: "left"}}>Digital Transformation Consultant</h3>
         <h5 className="purple" style={{ textAlign: "left"}}>Highradius</h5>
-        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Analyzing Client’s live data using Analytical andVisualization tools to improve the Client’s ARProcess.Created Design, Fit-Gap documents to identifythePureBusiness requirement vs the available Product ScopeforFortune 500 Clients. Gathered the Pure Business RequirementsfromCustomer Stated Requirements.
-      </p></Col>
+        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>
+        <ul>
+        <li>Analyzed Client's live data using Analytical and Visualization tools to improve the Client’s AR Process.</li> 
+        
+        <li>Created Design, Fit-Gap documents to identify the gaps between Client requirement and the available Product Scope for Fortune 500 Clients.</li> 
+        
+        <li>Conducted User Acceptance Testing (UAT) and Collaborated to
+build successful client relationships.</li>
+
+
+        </ul>
+       
+
+        
+        </p></Col>
       
     </Row>
     <br/>
-    <Row className="ed-card">
+    {/* <Row className="ed-card">
     <Col md={2} >
         <Tilt>
           <img src={jhar} className="img-fluid" style={{padding:"10%"}} alt="avatar" />
@@ -49,10 +62,11 @@ function Experience() {
       <Col md={8} >
         <h3 style={{ textAlign: "left"}}>Community Leader</h3>
         <h5 className="purple" style={{ textAlign: "left"}}>UnSchool</h5>
-        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Supervised and trained a group of 10+CommunityInfluencers. ⮚ Responsible for cond
+        <p style={{ fontSize: "0.89em", textAlign: "left",paddingBottom: "20px" ,color:"black"}}>Supervised and trained Community Influencers and Conducted
+Customer Pitching Sessions Generated and confirmed Sales Leads across India and Ensured market penetration and expansion
       </p></Col>
       
-    </Row>
+    </Row> */}
     <br/>
     
     

@@ -16,7 +16,7 @@ function Home3() {
       <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em",textAlign: "left" }}>
-              As a <span className="purple" style={{ fontSize: "1em",textAlign: "left" }}> Management Consultant,1 </span> 
+              As a <span className="purple" style={{ fontSize: "1em",textAlign: "left" }}> Management Consultant </span> 
             </h1>
             <p className="home-about-body">
             Successfully led and delivered a project for a Leading Client in the US. Carried out designs to improve the AR Recievables by more than 30%. Integrated a payment platform for the Company to stream line the online payments process

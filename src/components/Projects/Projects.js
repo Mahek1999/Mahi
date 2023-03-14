@@ -31,7 +31,7 @@ function Projects() {
               imgPath={coursera}
               isBlog={false}
               title="Data Analysis With R"
-              ghLink="https://www.coursera.org/account/accomplishments/certificate/KJQ7Y72A7VHY"
+              //ghLink="https://www.coursera.org/account/accomplishments/certificate/KJQ7Y72A7VHY"
               
             />
           </Col>
@@ -41,7 +41,7 @@ function Projects() {
               imgPath={Java}
               isBlog={false}
               title="Advanced Java - RCPL"
-              ghLink="https://www.coursera.org/account/accomplishments/certificate/WFGJZYSZEK4B"
+              //ghLink="https://www.coursera.org/account/accomplishments/certificate/WFGJZYSZEK4B"
               
             />
           </Col>
@@ -51,7 +51,7 @@ function Projects() {
               imgPath={coursera}
               isBlog={false}
               title="Foundations: Data, Data, Everywhere"
-              ghLink="https://www.coursera.org/account/accomplishments/certificate/RQ2LXBNCXHKR"
+              //ghLink="https://www.coursera.org/account/accomplishments/certificate/RQ2LXBNCXHKR"
                          
             />
           </Col>
@@ -61,7 +61,7 @@ function Projects() {
               imgPath={udemy}
               isBlog={false}
               title="SQL for Data Analytics 2021"
-             ghLink="https://ude.my/UC-30179d89-17f2-4fcf-8a2f-e%2030004a1e888"
+             //ghLink="https://ude.my/UC-30179d89-17f2-4fcf-8a2f-e%2030004a1e888"
               
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={udemy}
               isBlog={false}
               title="Tableau for Beginners: Get DA Certified"
-             ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+             //ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -81,7 +81,7 @@ function Projects() {
               imgPath={niit}
               isBlog={false}
               title="Web Development - NIIT "
-              ghLink="https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing"
+              //ghLink="https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
