@@ -71,7 +71,7 @@ communication and Presentation skills
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/mahi"
                   target="_blank"
@@ -80,7 +80,7 @@ communication and Presentation skills
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li>*/}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/mahek-saraogi-0b4a50181/"
